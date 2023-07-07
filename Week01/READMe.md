@@ -1,19 +1,19 @@
-#Week 1 Notes
+# Week 1 Notes
 -use copilot to generate code in a language from English
 - use colab for python
 -use posit for R
 
-#CMU_PGSS2023_CSLab/Week01/MyFirstLocalPythonNotebook.ipynb
+# CMU_PGSS2023_CSLab/Week01/MyFirstLocalPythonNotebook.ipynb
 
 This code is a Python notebook that demonstrates how to mount Google Drive, read and manipulate data using Pandas and visualize data using Seaborn. It also shows how to authenticate and read data from Google Sheets using gspread. Specifically, the code reads a CSV file containing data on iris flowers from a Google Drive folder, creates a Pandas dataframe, and visualizes the average sepal length of each species of iris using a boxplot. Additionally, the code demonstrates how to read data from a Google Sheet and convert it into a Pandas dataframe.
 
-#CMU_PGSS2023_CSLab/Week01/MyFirstColabNotebook01.ipynb
+# CMU_PGSS2023_CSLab/Week01/MyFirstColabNotebook01.ipynb
 
 This notebook is an equivalent of the above Colab notebook, written to be run on a local Conda environment, using VSCode as an IDE.
 
-#R Exercises:
+# R Exercises:
 
-##iris.R
+## iris.R
 
 This code is written in the R programming language and performs several operations on the famous iris dataset.
 
